@@ -19,7 +19,7 @@ function Footer(){
         <li class="nav-item mb-2"><img src="/images/discord.svg" width="30px" id="icons"></img><p>notansaf3422</p></li>
         <li class="nav-item mb-2"><img src="/images/github.svg" width="30px"></img><a href="https://github.com/Ansaf33" target="_blank">Github</a></li>
         <li class="nav-item mb-2"><img src="/images/instagram.svg" width="30px"></img><a href="https://www.instagram.com/ansaf_no_one/" target="_blank">Instagram</a></li>
-        <li class="nav-item mb-2"><img src="/images/github.svg" width="30px"></img><a href="https://www.facebook.com/ansaf.hassan.94/" target="_blank">Facebook</a></li>
+        <li class="nav-item mb-2"><img src="/images/facebook.svg" width="30px"></img><a href="https://www.facebook.com/ansaf.hassan.94/" target="_blank">Facebook</a></li>
 
 
       </ul>
